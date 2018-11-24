@@ -1,0 +1,2 @@
+# masihsama.js
+masihsama
